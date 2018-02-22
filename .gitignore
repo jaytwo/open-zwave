@@ -32,6 +32,8 @@ Debug
 *.metagen
 *.exp
 *.exe
+*.VC.db
+*.VC.opendb
 OZWForm.exe.config
 OZWForm.vshost.exe.config
 OZWForm.vshost.exe.manifest
